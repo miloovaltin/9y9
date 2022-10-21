@@ -1,16 +1,16 @@
 {
-"name": "9y9",
-"theme": "9y9",
-"version": "4.1.7",
-"description": "9y9 ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"9y9",
-"9y9 เครดิตฟรี",
-"9y9 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/9y9",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "9y9",
+  "theme": "9y9",
+  "version": "4.2.0",
+  "description": "9y9 ทางเข้าหลักเว็บไซต์แทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "9y9",
+    "9y9 เครดิตฟรี",
+    "9y9 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/9y9",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
